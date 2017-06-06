@@ -1,2 +1,3 @@
 # Python
-为学会使用python爬虫而存在的repo
+
+**目标：**学会使用python爬虫
