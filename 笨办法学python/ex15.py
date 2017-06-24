@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from sys import argv                    #从sys软件包中取出argv这个特性来供我使用
 
 script, filename = argv                 #脚本，文件名作为参数变量
