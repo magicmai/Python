@@ -1,6 +1,4 @@
-# Python
-
-**目标一：** 了解爬虫原理，实现简单爬虫
+# Python基础
 
 **课程：**
 - python 入门：[练习代码](http://www.imooc.com/u/4228249/course/177/codes)、[笔记(Issues)](https://github.com/magicmai/Python/issues/1)
@@ -12,6 +10,9 @@
 - 《python核心编程》(第3版)
 
 # 爬虫实战
+
+**目标1：** 了解爬虫原理，实现简单爬虫
+
 [baike_spider](https://github.com/magicmai/Python/tree/master/baike_spider)
 
 - 目标：爬取百度百科 python 词条相关词条网页 —— 标题和简介。
