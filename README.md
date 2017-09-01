@@ -10,3 +10,8 @@
 **教材：**
 - 《“笨办法”学python》(第3版)：[练习代码](https://github.com/magicmai/Python/tree/master/%E7%AC%A8%E5%8A%9E%E6%B3%95%E5%AD%A6python)
 - 《python核心编程》(第3版)
+
+# 爬虫实战
+1. [baike_spider](https://github.com/magicmai/Python/tree/master/baike_spider)
+
+目标：爬取百度百科 python 词条相关词条网页 —— 标题和简介。
