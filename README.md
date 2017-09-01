@@ -12,6 +12,6 @@
 - 《python核心编程》(第3版)
 
 # 爬虫实战
-1. [baike_spider](https://github.com/magicmai/Python/tree/master/baike_spider)
+[baike_spider](https://github.com/magicmai/Python/tree/master/baike_spider)
 
-目标：爬取百度百科 python 词条相关词条网页 —— 标题和简介。
+- 目标：爬取百度百科 python 词条相关词条网页 —— 标题和简介。
